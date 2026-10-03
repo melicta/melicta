@@ -1,6 +1,6 @@
 <div align="center" width="200px">
   
-### *`Quartix`*
+### *`Melicta`*
 #### *Borrow-checked mind*
 
 <ins>My thoughts are under strict control:</ins> <br> Every idea is borrowed and returned with precision, eliminating<br> dangling pointers and memory leaks in my mental model.<br><br>
